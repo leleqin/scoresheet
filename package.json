@@ -1,0 +1,24 @@
+{
+  "name": "scoresheet-cli",
+  "version": "1.0.0",
+  "description": "Powered by ThoughtWorks School",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node run-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw-online-quiz/scoresheet-cli.git"
+  },
+  "author": "ThoughtWorks School",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tw-online-quiz/scoresheet-cli/issues"
+  },
+  "homepage": "https://school.thoughtworks.cn",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "sinon": "^2.3.5"
+  }
+}
